@@ -15,5 +15,6 @@ This folder contains some other examples of multimethods:
 - C: a possible way to simulate the functionality
 
 ## Documentation
-The PDF file contains a summary of the multimethods, especially the implementation of it in Cecil. Unfortunately, this available now only in Hungarian.
-The PPT presentation is written in English.
+The 'docs' folder contains the following files:
+- The PDF file contains a summary of the multimethods, especially the implementation of it in Cecil. Unfortunately, this available now only in Hungarian.
+- The PPT presentation is written in English. It shows examples and the main topic of multimethods.
