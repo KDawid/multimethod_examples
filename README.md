@@ -1,14 +1,19 @@
 # Multimethod Examples
 This repository contains some examples of multimethods
 
-# Java
+## Java
 The Java codes demonstrated some problems that cannot be solved without multiple dispatching
 
-# Python
+## Python
 The Python examples shows some useful examples how to use multimethods and multiple dispatching in this language. You will need the following packages:
 - multimethod
 - multipledispatch
 
-# Documentation
+## Other Examples
+This folder contains some other examples of multimethods:
+- Common Lisp
+- C: a possible way to simulate the functionality
+
+## Documentation
 The PDF file contains a summary of the multimethods, especially the implementation of it in Cecil. Unfortunately, this available now only in Hungarian.
 The PPT presentation is written in English.
